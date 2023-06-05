@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Uva3<br>🤝 I’m looking for help with microfrontends<br>🌱 I’m currently learning php
+🔭 I’m currently working on Uva3<br>🤝 I’m looking for help with microfrontends<br>🌱 I’m currently learning symfony and php
 
 
 ## 🌐 Socials:
