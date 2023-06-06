@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Uva3<br>🤝 I’m looking for help with microfrontends<br>🌱 I’m currently learning Symfony and PHP
 
-## [![](https://visitcount.itsvg.in/api?id=AlejandraGz&icon=5&color=5)](https://visitcount.itsvg.in)
+#
+[![](https://visitcount.itsvg.in/api?id=AlejandraGz&icon=5&color=5)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alejandra-gonzalez-melendez) 
