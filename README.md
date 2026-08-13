@@ -65,34 +65,6 @@ Actualmente continúo fortaleciendo mis conocimientos mediante proyectos persona
 
 ---
 
-# 💼 Experiencia Profesional
-
-## 👩‍💻 Desarrolladora Frontend — UVA3 SAS
-
-**Mayo 2023 – Enero 2026**
-
-Durante mi experiencia profesional participé en el desarrollo y mantenimiento de interfaces y módulos web para aplicaciones administrativas y contables.
-
-### 🔹 Principales responsabilidades
-
-* Desarrollo y mantenimiento de interfaces y módulos web utilizando **Angular, HTML, CSS y JavaScript**.
-* Integración de aplicaciones Frontend con servicios backend desarrollados con **Symfony**.
-* Consumo e integración de **APIs REST**.
-* Trabajo colaborativo con el equipo backend para mantener la comunicación entre módulos y servicios.
-* Manejo y validación de datos.
-* Desarrollo de soluciones orientadas a la **digitalización y automatización de procesos administrativos**.
-* Diseño e implementación de un **sistema interno de helpdesk** orientado a la usabilidad y soporte de usuarios.
-* Implementación de validaciones y mejoras de rendimiento en formularios.
-
-### 📈 Logros
-
-* ⚡ Optimización de componentes Frontend, logrando una mejora aproximada del **35% en la velocidad de carga** y reduciendo errores en producción.
-* 🗄️ Optimización de procesos de base de datos, reduciendo aproximadamente un **80% el tiempo de ejecución** y minimizando errores manuales.
-* ⏱️ Digitalización del proceso de gestión de horas extra mediante una solución web, generando un ahorro de **más de 10 horas mensuales** para el área de Recursos Humanos.
-* ✅ Implementación de validaciones y mejoras de rendimiento en formularios, reduciendo aproximadamente un **40% los errores**.
-
----
-
 # 🚀 Proyectos Personales
 
 ## 🛒 ReactiveShop
